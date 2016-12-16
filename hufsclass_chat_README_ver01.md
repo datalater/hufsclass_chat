@@ -14,6 +14,7 @@
 
 그러면 이러한 현상이 앞으로도 꾸준히 지속될까요?
 
-모바일 앱 시장을 살펴보면 그럴 것 같지 않습니다.
+![슬라이드5_모바일앱](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG?raw=true)
 
+모바일 앱 시장을 살펴보면 그럴 것 같지 않습니다.
  
