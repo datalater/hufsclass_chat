@@ -9,12 +9,28 @@
 사람과 소통하며 서비스를 제공하는 소프트웨어
 
 ### 챗봇이 화두로 떠오른 배경 ###
-
+#### 1. 모바일 앱 DOWN ####
 현재 우리는 모바일 시대에 살고 있고 그만큼 모바일은 가장 중요한 ICT 패러다임 중 하나입니다. 일상생활은 모바일에 맞게 재편되고 있고 그 안에는 모바일 앱이라는 유형의 서비스가 자리잡고 있습니다. 
 
 그러면 이러한 현상이 앞으로도 꾸준히 지속될까요?
 
 ![슬라이드5_모바일앱](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C5.PNG?raw=true)
 
-모바일 앱 시장을 살펴보면 그럴 것 같지 않습니다.
- 
+모바일 앱 시장을 살펴보면 그럴 것 같지 않습니다. 앱 시장은 이미 포화상태입니다. 그러다 보니 앱 개발 비용뿐만 아니라 만든 앱을 알리고 홍보하는 마케팅 비용은 점점 더 늘어날 수밖에 없겠죠. 그런데 문제는 새로운 앱을 설치하는 사용자들이 매우 적다는 겁니다. 저만 하더라도 최근에 새로운 앱을 다운받은 기억이 잘 나지 않습니다. 설치하고 나서 사용하지 않는 앱도 많죠.
+
+정리하면, 모바일 시대에 진입했지만 모바일 앱 시장은 상황이 좋지 않습니다. 그러면 모바일 앱 이후의 NEXT 패러다임은 무엇일까요?
+
+#### 2. 모바일 메신저앱 UP ####
+
+모바일 생태계에서 사람들이 가장 많이 하는 행동을 살펴보면 힌트를 얻을 수 있습니다.
+
+![스마트폰으로주로무엇을하나](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C7.PNG?raw=true)
+
+통계조사에서도 말하고 있지만 굳이 멀리 찾지 않아도 저나 여러분 또한 카카오톡 같은 메신저 앱을 가장 많이 사용할 겁니다. 이때 챗봇이 우리 회사의 미래다, 라고 선언한 CEO가 있습니다. 누굴까요?
+
+![페이스북의미래_챗봇](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG?raw=true)
+
+그는 페이스북의 10년 후 로드맵을 발표하는 자리에서 새로 개발한 챗봇에 대해 이렇게 말했습니다. 
+
+> *We announced new technology like Messenger bots that use artificial intelligence to make it easier to communicate with businesses.*
+
