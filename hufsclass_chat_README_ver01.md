@@ -20,7 +20,7 @@
 
 정리하면, 모바일 시대에 진입했지만 모바일 앱 시장은 이미 포화상태이고 미래가 밝지 않습니다. 그러면 모바일 앱 이후의 NEXT 패러다임은 무엇일까요?
 
-#### 모바일 메신저앱 UP ####
+#### What is the NEXT? ####
 
 모바일 생태계에서 사람들이 가장 많이 하는 행동을 살펴보면 힌트를 얻을 수 있습니다.
 
@@ -38,9 +38,13 @@
 
 ![ICT패러다임챗봇UP](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C10.PNG?raw=true)
 
-챗봇이 화두로 떠오른 배경을 정리하면, 포화상태의 모바일 앱 시장에 대한 새로운 ICT 대안으로 챗봇이 떠오르고 있는 것입니다. 
+지금까지의 내용을 정리하면, 포화상태의 모바일 앱 시장에 대한 새로운 ICT 대안으로 챗봇이 떠오르고 있는 것입니다. 
 
 ### 3. 챗봇으로 할 수 있는 일  ###
+
+![챗봇활용분야](https://github.com/datalater/hufsclass_chat/blob/master/images/chatbot_%ED%99%9C%EC%9A%A9%EB%B6%84%EC%95%BC_NIA.png?raw=true)
+
+> 출처: 한국정보화진흥원
 
 
 
