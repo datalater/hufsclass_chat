@@ -34,7 +34,7 @@
 
 > *We announced new technology like Messenger bots that use artificial intelligence to make it easier to communicate with businesses.*
 
-'인공지능(AI) 기술을 활용해서 사업자의 소통을 원활하게 만들어주는 메신저 봇', 바로 챗봇입니다. 붉은색으로 포화된 모바일 시장을 표현한 그림 기억나시나요? 챗봇은 기존 메신저 앱의 새로운 서비스이지 새로운 앱이 아니기 때문에 포화된 시장에 새로 진입하거나 경쟁할 필요가 없습니다. 
+'인공지능(AI) 기술을 활용해서 사업자의 소통을 원활하게 만들어주는 메신저 봇을 발표했다.' 여기서 AI를 활용한 메신저 봇이 곧 챗봇입니다. 붉은색으로 포화된 모바일 시장을 표현한 그림 기억나시나요? 챗봇은 기존 메신저 앱의 새로운 서비스이지 새로운 앱이 아니기 때문에 포화된 시장에 새로 진입하거나 경쟁할 필요가 없습니다. 
 
 ![4th industrial revolution](https://github.com/datalater/hufsclass_chat/blob/master/images/4th%20industrial%20revolution.jpg?raw=true)
 
