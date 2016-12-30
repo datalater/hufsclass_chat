@@ -30,7 +30,7 @@
 
 ![페이스북의미래_챗봇](https://github.com/datalater/hufsclass_chat/blob/master/images/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%93%9C8.PNG?raw=true)
 
-그는 페이스북의 10년 후 로드맵을 발표하는 자리에서 새로 개발한 기술에 대해 다음과 같이 말했습니다. 
+바로 마크 주커버그입니다. 그는 페이스북의 10년 후 로드맵을 발표하는 자리에서 새로 개발한 기술에 대해 다음과 같이 말했습니다. 
 
 > *We announced new technology like Messenger bots that use artificial intelligence to make it easier to communicate with businesses.*
 
